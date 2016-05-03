@@ -43,7 +43,7 @@ fi
 
 # DOWNLOAD SUB-SCRIPTS ==========================================================
 # This script downloads the latest Pharo 50 Image. ------------------------------
-$DOWNLOAD https://github.com/A4BP/get-moose-image/raw/master/getMoose6 | bash 
+$DOWNLOAD https://github.com/A4BP/get-moose-image/raw/master/getMoose51 | bash
 # This script downloads the stable Pharo VM for 50. -----------------------------
 $DOWNLOAD http://get.pharo.org/vm50 | bash 
 
